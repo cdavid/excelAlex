@@ -1,0 +1,13 @@
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Ribbon1.resources
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\GenerateResource.read.1.tlog
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\GenerateResource.write.1.tlog
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+c:\users\cdavid\documents\visual studio 2010\Projects\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
